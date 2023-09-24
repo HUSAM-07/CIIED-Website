@@ -1,4 +1,6 @@
-site_name: CIIED Standards & Procedures 
+site_name: IIC BPDC S&P - Standards & Procedures
 nav:
-  -incubation.md
-  -standards.md
+  - Home: index.md
+  - Who Are We?: who_are_we.md
+  - Working Guidelines in Incubation: working_guidelines.md
+theme: readthedocs

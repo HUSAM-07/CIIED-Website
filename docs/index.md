@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+# CIIED - Center For Innovation and Incubation Dubai
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**Who Are We?**
 
-## Commands
+We are the official incubation arm of BITS, Pilani, Dubai Campus. We strive to create an environment where innovative minds get the much-needed exposure to technology, business, and financial support.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+**What do we do?**
 
-## Project layout
+CIIED aims to find the entrepreneur in the students of the BITS Pilani, Dubai Campus. CIIED connects students with solid entrepreneurial skills, in order to form a close-knit network, working together to spread the word of Entrepreneurship.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+**Vision**
+
+Entrepreneurship for a purpose is our ultimate goal – to create value and impact and to nurture tomorrow's global leaders.
+
+**Mission**
+
+To provide a world-class environment for the development of capabilities and knowledge of students in the fields of innovation and entrepreneurship.

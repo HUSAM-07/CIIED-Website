@@ -1,6 +1,0 @@
-site_name: IIC BPDC S&P - Standards & Procedures
-nav:
-  - Home: index.md
-  - Who Are We?: who_are_we.md
-  - Working Guidelines in Incubation: working_guidelines.md
-theme: readthedocs
